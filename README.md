@@ -1,4 +1,4 @@
-# 🌍 Currency Converter
+## 🌍 Currency Converter
 
 A simple *Currency Converter* built with *HTML, CSS, and JavaScript*.  
 It allows users to convert between different currencies using the *Frankfurter API* and displays country flags using *FlagsAPI*.
